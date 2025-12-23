@@ -9,10 +9,10 @@
 </div>
 
 AI游戏盒子 
-游戏名称：{{game1.name}}
-下载链接：{{game1.downloadUrl}}
+游戏名称：王者荣耀
+下载链接：
 
 第二个游戏：{{game2.name}}
 
-游戏盒子：{{gameBox1.name}}
-盒子下载：{{gameBox1.downloadUrl}}
+游戏盒子：277
+盒子下载：
