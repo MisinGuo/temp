@@ -1,4 +1,4 @@
-网站域名：AI游戏盒子
-网站域名：dev.zeusai.top
-游戏盒子名称：277
-游戏名称：王者荣耀
+网站域名：{{SITE.name}}
+网站域名：{{SITE.domain}}
+游戏盒子名称：{{GAMEBOX.name}}
+游戏名称：{{GAME.name}}
