@@ -7,4 +7,7 @@
     allowfullscreen>
 </iframe>
 </div>
-AI游戏盒子
+
+AI游戏盒子 
+{{gameBox.name}}
+{{game.name}}
