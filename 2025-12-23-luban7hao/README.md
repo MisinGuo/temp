@@ -8,11 +8,13 @@
 </iframe>
 </div>
 
-AI游戏盒子 
-游戏名称：王者荣耀
-下载链接：
 
-第二个游戏：{{game2.name}}
+AI游戏盒子
+dev.zeusai.top
+aiGameBox
 
-游戏盒子：277
-盒子下载：
+
+
+
+277
+{{[object Object]}}
